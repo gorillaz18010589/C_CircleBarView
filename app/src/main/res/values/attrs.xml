@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--    <declare-styleable name="TouchBarView">-->
+<!--        <attr format="integer" name="barCount"/>-->
+<!--        <attr format="integer" name="barMaxLevel"/>-->
+<!--        <attr format="integer" name="barMinLevel"/>-->
+<!--        <attr format="color" name="barColor"/>-->
+<!--        <attr format="color" name="backColor"/>-->
+<!--        <attr format="integer" name="barWidth"/>-->
+<!--        <attr format="integer" name="sideWidth"/>-->
+<!--        <attr format="boolean" name="paintFingerPath"/>-->
+<!--        <attr format="integer" name="fingerPaintColor"/>-->
+<!--        <attr format="boolean" name="touchable"/>-->
+<!--    </declare-styleable>-->
+
+
+
+    <declare-styleable name="CircleBarView">
+        <attr format="integer" name="barCount"/>
+        <attr format="integer" name="barMaxLevel"/>
+        <attr format="integer" name="barMinLevel"/>
+        <attr format="color" name="barColor"/>
+        <attr format="color" name="backColor"/>
+        <attr format="integer" name="barWidth"/>
+        <attr format="integer" name="sideWidth"/>
+        <attr format="boolean" name="paintFingerPath"/>
+        <attr format="integer" name="fingerPaintColor"/>
+        <attr format="boolean" name="touchable"/>
+        <attr format="color" name="barSelectColor"/>
+        <attr format="color" name="barSelectSolidColor"/>
+        <attr format="color" name="lineColor"/>
+            />
+    </declare-styleable>
+
+
+
+</resources>
